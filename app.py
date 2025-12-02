@@ -1,6 +1,7 @@
 # flask
 
-from flask import Flask, render_template, requestimport joblib
+from flask import Flask, render_template, request
+import joblib
 
 app = Flask(__name__)
 
